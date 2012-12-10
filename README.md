@@ -18,6 +18,8 @@ App = Ember.Application.extend({
 
 ```
 
+For synchronizing data between client-side storage and server-side storage, take a look at [ember-data-sync](https://github.com/panayi/ember-data-sync)
+
 
 Todo
 ----
