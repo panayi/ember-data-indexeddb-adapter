@@ -1,7 +1,7 @@
 Ember Data IndexedDB adapter
 =================================================
 
-Based on [https://github.com/wycats/indexeddb-experiment]https://github.com/wycats/indexeddb-experiment. 
+Based on https://github.com/wycats/indexeddb-experiment. 
 
 
 Usage
@@ -17,6 +17,7 @@ App = Ember.Application.extend({
 });
 
 ```
+
 
 Todo
 ----
