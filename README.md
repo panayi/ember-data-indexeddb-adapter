@@ -12,13 +12,13 @@ Usage
 2. Set the `databaseName` in your app definition:
 
 ```js
-App = Ember.Application.extend({
+App = Ember.Application.create({
   databaseName: 'contacts-app-database'
 });
 
 ```
 
-For synchronizing data between client-side storage and server-side storage, take a look at [ember-data-sync](https://github.com/panayi/ember-data-sync)
+For synchronizing data between client-side storage and server-side storage, take a look at [ember-data-sync](https://github.com/panayi/ember-data-sync).
 
 
 Todo
